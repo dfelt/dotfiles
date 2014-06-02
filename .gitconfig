@@ -1,0 +1,12 @@
+[user]
+	name = David Felty
+	email = davfelty@gmail.com
+[alias]
+	co = checkout
+	ci = commit
+	br = branch
+	df = diff
+	dfs = diff
+	logg = log --oneline --graph --decorate --abbrev-commit
+[color]
+	ui = true
